@@ -1,0 +1,40 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+
+.light-background {
+  background-color: white;
+  color: black;
+}
+
+#clickable {
+  color: aqua;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.highlight {
+  color: aquamarine;
+  border: darkgreen solid;
+}
+
+.javascript-hidden {
+  display: none;
+}
+
+.operators-hidden {
+  display: none;
+}
